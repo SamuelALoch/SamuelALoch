@@ -16,7 +16,7 @@
 
 - I'm a passionate and dedicated software engineer.
 - I have extensive experience in cybersecurity.
-- I'm currently pursuing a Master's Degree in Computer and Information Technology at the University of Pennsylvania.
+- I'm currently pursuing a Master's Degree in Computer Science, concentrating in Artificial Intelligence at the University of Pennsylvania.
 - Personal website [link](https://www.samuelloch.com)
 - I’m open to software engineering roles.
 
